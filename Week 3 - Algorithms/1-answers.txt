@@ -1,0 +1,13 @@
+sort1 uses: Bubble sort
+
+How do you know?: It is same like selection sort but takes/compares two at a time so it is slightly fater than selection sorting but
+                  much slower than merge sort.
+
+sort2 uses: Merge sort
+
+How do you know?: Because from the class we concluded that "merge sort" sorts larger data or input in small time by dividing input in
+                  two halves and sort each and merge together.
+
+sort3 uses: Selection sort
+
+How do you know?: It is first method of sort and compares only one at a time and takes much time.
